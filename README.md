@@ -16,14 +16,4 @@ React hook to handle forms
 2. Support for validations
 3. Support for various design systems (Material UI, Bootstrap, etc...)
 
-## This project
-
-...
-
-## Usage
-
-...
-
-## Documentation
-
-...
+Surprisingly [React Hook Forms](https://github.com/metamn/react-hook-form-test) does all these ... out of the box.
